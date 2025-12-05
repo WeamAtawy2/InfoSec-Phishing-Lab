@@ -1,0 +1,13 @@
+Return-Path: <kali@kali>
+X-Original-To: victim@lab
+Delivered-To: victim@lab
+Received: by kali.lab (Postfix, from userid 1000)
+	id 497052C138D; Fri, 21 Nov 2025 18:46:04 -0500 (EST)
+Subject: Test 1
+To: <victim@lab>
+User-Agent: mail (GNU Mailutils 3.20)
+Date: Fri, 21 Nov 2025 18:46:04 -0500
+Message-Id: <20251121234604.497052C138D@kali.lab>
+From: kali@kali
+
+مرحبا
